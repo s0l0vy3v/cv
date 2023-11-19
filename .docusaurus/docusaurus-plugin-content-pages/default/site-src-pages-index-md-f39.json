@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/cv/",
+  "source": "@site/src/pages/index.md",
+  "title": "CV",
+  "description": "const fillStyle = {",
+  "frontMatter": {
+    "title": "CV"
+  },
+  "unlisted": false
+}
